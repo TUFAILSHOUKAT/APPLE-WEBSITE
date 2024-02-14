@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #ffff;
+
+}
+
+.Apple {
+    margin-top: 13px;
+    color: black;
+}
+
+.foooter {
+    height: 500px;
+    border-bottom: 2px solid black;
+    width: 100%;
+    line-height: 30px;
+    margin: auto;
+
+}
+
+p {
+    font-size: small;
+    color: gray;
+    padding-left: 100px;
+    top: 40px;
+}
+
+#pp {
+    font-size: small;
+    color: gray;
+    padding-left: 100px;
+    top: 40px
+}
+
+li {
+    list-style-type: none;
+}
+
+.footer-2 {
+    display: flex;
+    justify-content: space-evenly;
+    line-height: 25px;
+}
+
+h3 {
+    font-size: medium;
+}
+
+.footer-3 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li:hover {
+    border-bottom: 3px solid rgb(159, 17, 17);     }
